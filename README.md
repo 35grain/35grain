@@ -1,4 +1,4 @@
-## Hey there, stranger! I'm Richard:
+### Hi there, stranger! I'm Richard:
 
 - 💻 Web developer
 - 📸 Hobbyist photographer
