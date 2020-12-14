@@ -1,5 +1,5 @@
 ### Hi there, stranger! I'm Richard:
 
-- 💻 Web developer
+- 💻 Web specialist
 - 📸 Hobbyist photographer
 - 🎓 First year Informatics student
