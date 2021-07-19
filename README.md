@@ -2,4 +2,4 @@
 
 - 💻 Web specialist
 - 📸 Hobbyist photographer
-- 🎓 First year Informatics student
+- 🎓 Informatics student
