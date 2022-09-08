@@ -2,4 +2,4 @@
 
 - 💻 Web specialist
 - 📸 Hobbyist photographer
-- 🎓 Informatics student
+- 🎓 Computer Science student
