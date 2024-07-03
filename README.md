@@ -1,5 +1,1 @@
-### Hi there, stranger! I'm Richard:
-
-- 💻 Full Stack developer
-- 🎓 Computer Science BSc graduate
-- 📸 Hobbyist photographer
+### Hi there, stranger! I'm Richard, a Full Stack Web Developer 
